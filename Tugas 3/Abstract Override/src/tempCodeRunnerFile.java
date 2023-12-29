@@ -1,0 +1,1 @@
+Pemain calon_1 = new Pemain();
